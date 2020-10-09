@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-weight: 400;
+  background-color: #fff;
+  color: #000;
+}
+
+header {
+  background-color: #9EC545;
+  border-bottom: #EEB0AC 6px solid;
+}
+
+.title {
+  color: #9EC545;
+}
+
+.season {
+    color: #EEB0AC;
+  }
